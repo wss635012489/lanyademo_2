@@ -1,0 +1,4 @@
+<!--pages/index/index.wxml-->
+<view>值1：{{balanceData}}</view>
+<view>值2：{{hexstr}}</view>
+<button bindtap="reconnect">{{btn_text}}</button>
